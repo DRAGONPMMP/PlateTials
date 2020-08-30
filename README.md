@@ -17,7 +17,7 @@ A PocketMine-MP software that have many different commands!
  - pt.feed
  - pt.clear
  # Special Credits
- This plugin(or project) is inspired by EssentialsPE plugin by LegendOfMCPE https://github.com/LegendOfMCPE/EssentialsPE
+ This plugin(or project) is inspired by EssentialsPE plugin by swagking47 https://github.com/swagking47/EssentialsPE
  
  # DevLogs 1.0
  - Added Repo for github

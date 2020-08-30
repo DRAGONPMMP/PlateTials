@@ -19,5 +19,5 @@ A PocketMine-MP software that have many different commands!
  # Special Credits
  This plugin(or project) is inspired by EssentialsPE plugin by LegendOfMCPE https://github.com/LegendOfMCPE/EssentialsPE
  
- #DevLogs 1.0
+ # DevLogs 1.0
  - Added Repo for github

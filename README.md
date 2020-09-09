@@ -21,3 +21,6 @@ A PocketMine-MP software that have many different commands!
  
  # DevLogs 1.0
  - Added Repo for github
+ 
+ You found a bug? please let me know in the issue section!
+ wanna support me to make plugin like this? feel free to support me in https://paypal.me/jedimasters !

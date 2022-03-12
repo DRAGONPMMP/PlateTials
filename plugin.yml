@@ -1,12 +1,20 @@
 name: PlateTialsUI
-version: 1.0
+version: 1.2.p
 main: BabosAppol\PlateTialsUI\Main
-api: 3.0.0
+author: BabosAppol,Ldrago
+api: 4.0.0
 
 commands:
   heal:
     description: "Set your health or other people heart"
+     default: op 
   feed:
     description: "Set your food or other people food"
+     default: op 
   clear:
     description: "Clear other people inventory/armours/effects or yourself"
+     default: op 
+    
+   permissions: 
+    PlateTialsUI.use: 
+     description: permision to use this plugin commands uwu 

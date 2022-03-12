@@ -1,7 +1,7 @@
 name: PlateTialsUI
 version: 1.2.0
 main: BabosAppol\PlateTialsUI\Main
-author: BabosAppol,Ldrago
+author: BabosAppol
 api: 4.0.0
 
 commands:
